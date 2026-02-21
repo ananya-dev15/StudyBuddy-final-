@@ -109,3 +109,6 @@ bcrypt password hashing
 Protected routes
 
 Session persistence
+
+<img width="2940" height="1676" alt="image" src="https://github.com/user-attachments/assets/d9396858-dc26-42a0-866f-614b03f3d59a" />
+
